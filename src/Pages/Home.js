@@ -79,7 +79,9 @@ const Home = () => {
 
           <div className={styles.homeButtons}>
             <a
-              href="https://bedarimillat.com/Images/Imag/Ashfaque_Ahmed_Bhutto_CV.pdf"
+              // href="https://bedarimillat.com/Images/Imag/Ashfaque_Ahmed_Bhutto_CV_2025.pdf"
+              href="/pdfs/Ashfaque_Ahmed_Bhutto_CV_2025.pdf"
+
               target="_blank"
               rel="noopener noreferrer"
               className={styles.btnPrimary}
