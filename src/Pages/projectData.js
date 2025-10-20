@@ -137,7 +137,7 @@ const projectsData = [
   category: "Full-Stack",
   liveLink: "https://huda-trading.vercel.app/en",
   sourceLink: "", // 🔁 Add your GitHub repo if public
-  image: "/Images/HudaTrading.png" // ✅ Update the image path
+  image: "/Images/hudatrade.png" // ✅ Update the image path
 }
 
 
