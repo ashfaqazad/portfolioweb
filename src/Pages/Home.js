@@ -79,9 +79,13 @@ const Home = () => {
 
           <div className={styles.homeButtons}>
             <a
+<<<<<<< HEAD
               // href="https://bedarimillat.com/Images/Imag/Ashfaque_Ahmed_Bhutto_CV_2025.pdf"
               href="/pdfs/Ashfaque_Ahmed_Bhutto_CV_2025.pdf"
 
+=======
+              href="https://bedarimillat.com/Images/Imag/Ashfaque_Ahmed_Bhutto_CV_2025.pdf"
+>>>>>>> cd62a9c9dbd6d63f4908e594b31fc9fabd2a6ed7
               target="_blank"
               rel="noopener noreferrer"
               className={styles.btnPrimary}
