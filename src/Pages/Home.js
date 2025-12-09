@@ -8,7 +8,7 @@ const Home = () => {
 
   const stats = [
     { label: "Years Of Experience", endValue: 3 },
-    { label: "Completed Projects", endValue: 9 },
+    { label: "Completed Projects", endValue: 10 },
     { label: "Technologies Mastered", endValue: 7 },
   ];
 

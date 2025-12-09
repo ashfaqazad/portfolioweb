@@ -138,7 +138,29 @@ const projectsData = [
   liveLink: "https://huda-trading.vercel.app/en",
   sourceLink: "", // 🔁 Add your GitHub repo if public
   image: "/Images/hudatrade.png" // ✅ Update the image path
+},
+
+{
+  title: "PDF Linx – Free Online PDF & File Tools",
+  description:
+    "PDF Linx is a modern full-stack web application that provides free online tools for PDF and document management. Users can easily convert, merge, split, and compress PDFs, along with using additional utilities like QR Code Generator, Password Generator, Image to Text (OCR), Unit Converter, and more. The frontend is built with Next.js and Tailwind CSS for a fast and responsive UI, while the backend is powered by Node.js, Express.js, and Python for secure and efficient file processing. Deployed on a VPS server, PDF Linx ensures excellent performance, reliability, and SEO optimization across all devices.\n\nThis project demonstrates complete full-stack development expertise — combining modern frontend technologies with powerful backend logic, automation, and optimized hosting infrastructure.",
+  stack: [
+    "Next.js",
+    "React",
+    "Tailwind CSS",
+    "Node.js",
+    "Express.js",
+    "Python",
+    "VPS Deployment",
+    "SEO Optimization"
+  ],
+  category: "Full-Stack",
+  liveLink: "https://pdflinx.com",
+  sourceLink: "", // 🔁 Add GitHub repo link if public
+  image: "/Images/HomePage.png" // ✅ Replace with your project screenshot path
 }
+
+
 
 
 
